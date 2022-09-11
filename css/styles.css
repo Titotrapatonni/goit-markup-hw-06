@@ -180,6 +180,8 @@ body {
   text-align: center;
   padding: 200px 0;
   max-width: 1600px;
+  height: 600px;
+  margin: 0 auto;
 }
 .hero-title {
   display: block;
@@ -761,8 +763,8 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 425px;
-  height: 24px;
+  /* width: 425px;
+  height: 24px; */
   margin-bottom: 30px;
 }
 .policy-link {
@@ -820,6 +822,7 @@ img {
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-color: transparent;
   border-radius: 4px;
+  cursor: pointer;
 
   font-weight: 700;
   font-size: 16px;
